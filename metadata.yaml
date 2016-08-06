@@ -1,0 +1,26 @@
+_repo: How-Jerusalem-Was-WonBeing-the-Record-of-Allenby-s-Campaign-in-Palestine_10098
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Massey, W. T. (William Thomas)
+    alias: Massey, William Thomas
+    gutenberg_agent_id: '3306'
+    url: http://www.gutenberg.org/2009/agents/3306
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Palestine'
+- GITenberg
+title: 'How Jerusalem Was Won
+
+  Being the Record of Allenby''s Campaign in Palestine'
+url: http://www.gutenberg.org/ebooks/10098
