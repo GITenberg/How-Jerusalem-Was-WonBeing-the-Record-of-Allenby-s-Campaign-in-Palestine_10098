@@ -1,5 +1,8 @@
 _repo: How-Jerusalem-Was-WonBeing-the-Record-of-Allenby-s-Campaign-in-Palestine_10098
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Massey, W. T. (William Thomas)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3306'
     url: http://www.gutenberg.org/2009/agents/3306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10098#How-Jerusalem-Was-WonBeing-the-Record-of-Allenby-s-Campaign-in-Palestine
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
